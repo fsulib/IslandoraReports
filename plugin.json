@@ -1,0 +1,26 @@
+{
+    "name": "IslandoraReports",
+    "description": "A Matomo plugin that provides an API for getting Islandora usage data.",
+    "version": "0.1.0",
+    "theme": false,
+    "require": {
+        "piwik": ">=3.9.1-stable,<4.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "Bryan J. Brown",
+            "email": "bryjbrown@gmail.com",
+            "homepage": "https://bryjbrown.github.io/"
+        }
+    ],
+    "support": {
+        "email": "bryjbrown@gmail.com",
+        "issues": "https://github.com/fsulib/IslandoraReports/issues",
+        "wiki": "https://github.com/fsulib/IslandoraReports/wiki",
+        "source": "https://github.com/fsulib/IslandoraReports",
+        "docs": "https://github.com/fsulib/IslandoraReports/tree/master/docs"
+    },
+    "homepage": "https://github.com/fsulib/IslandoraReports",
+    "license": "GPL v3+",
+    "keywords": ["Islandora", "Drupal", "digital repositories"]
+}
